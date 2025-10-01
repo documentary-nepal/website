@@ -27,7 +27,7 @@
 						<div class="elemetns-about-us-innercontent pt-jb pr-6 asdasdsa">
 							<h2 class="heading-sub mb-4">How can we help you ?</h2>
 							<div class="ssssssad">
-								<!-- <div class="border border-solid border-[#afafaf] sdujkh">
+								<div class="border border-solid border-[#afafaf] sdujkh">
 									<i class="fa fa-user px-3 vsdc" aria-hidden="true" style="font-size: 17.5px"></i>
 									<input
 										type="text"
@@ -38,7 +38,7 @@
 										class="input-left py-3 px-4"
 										placeholder="Your name*"
 									/>
-								</div> -->
+								</div>
 								<div class="border border-solid border-[#afafaf] sdujkh">
 									<i class="fa fa-envelope px-3 vsdc" aria-hidden="true"></i>
 									<input
@@ -49,7 +49,7 @@
 										placeholder="Your email*"
 									/>
 								</div>
-								<!-- <div class="border border-solid border-[#afafaf] sdujkh">
+								<div class="border border-solid border-[#afafaf] sdujkh">
 									<i class="fa fa-phone px-3 vsdc" aria-hidden="true"></i>
 									<input
 										type="text"
@@ -60,7 +60,7 @@
 										class="input-left py-3 px-4"
 										placeholder="Your phone no*"
 									/>
-								</div> -->
+								</div>
 								<div>
 									<textarea
 										name="message"
