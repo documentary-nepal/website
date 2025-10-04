@@ -23,7 +23,7 @@ jobs:
       - name: Install dependencies
         run: |
           npm i -g pnpm 
-          pnpm ci
+          pnpm i
 
       - name: Build Docusaurus site
         run: pnpm run build
