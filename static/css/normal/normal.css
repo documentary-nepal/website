@@ -164,7 +164,7 @@
 }
 
 .top img {
-  opacity: 0.6;
+  opacity: 1;
   height: 116.5vh;
   width: 100%;
   -o-object-fit: cover;
