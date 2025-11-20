@@ -51,7 +51,7 @@
 				</div>
 				<div>
 					<h2 class="font-bold text-2xl">Mail us</h2>
-					<p><a href="mailto:info@documentarynepal.com">info@documentarynepal.com</a></p>
+					<p><a href="mailto:pudasainiamrit@gmail.com">pudasainiamrit@gmail.com</a></p>
 				</div>
 			</div>
 		</div>
