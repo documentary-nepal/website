@@ -47,11 +47,11 @@
 				</div>
 				<div class="my-4">
 					<h2 class="font-bold text-2xl">Call us</h2>
-					<p><a href="tel:+9779841383924">+977 9841383924</a></p>
+					<p><a href="tel:+9779847357575">+977 9847357575</a></p>
 				</div>
 				<div>
 					<h2 class="font-bold text-2xl">Mail us</h2>
-					<p><a href="mailto:pudasainiamrit@gmail.com">pudasainiamrit@gmail.com</a></p>
+					<p><a href="mailto:pudasainiashutosh@gmail.com">pudasainiashutosh@gmail.com</a></p>
 				</div>
 			</div>
 		</div>
