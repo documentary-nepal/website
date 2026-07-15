@@ -1,0 +1,159 @@
+@media only screen  and (max-width:"360px") {
+    .relative-img{
+        display: none;
+    }
+
+    .grid-3{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-template-rows: auto;
+    }
+
+         .grid-4{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 20px;
+    }
+    
+    .w-75{
+        width: 95%;
+        margin: 0 auto;
+    }
+
+    .svsdivs{ 
+        border-radius: 10px;
+        & img{
+            width: 400px;
+            display: none;
+        }
+    }
+    
+
+    .elemetns-about-us-innercontent{
+        width: 240px;
+        padding-left: 10px;
+    
+        & p{
+            font-weight: 500;
+            font-size: 15px;
+            text-align: left;
+            line-height: 30px;
+        }
+    }
+
+    .grid-2{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        gap: 10px;
+    }
+    
+    .margin-left-minus-sus{
+        margin-left: 0px;
+    }
+
+    .margin-left-minus{
+        margin-left: 0px;
+    
+    }
+
+    .margin-left-plus{
+        margin-left: -20px;
+    }
+
+    .interior-about0contents{
+        width: 300px;
+    }
+
+    .interior-about0contents-second{
+        width: 300px;
+    }
+
+    .grid-4-masonry{
+        display: grid;
+        grid-template-columns: repeat(1,1fr);
+        grid-template: masonry;
+        gap: 10px;
+    }
+
+    .bjhoiuyku img{
+        display: none;
+        width: 480px; 
+        height:592.117px ; 
+        object-fit: cover; 
+        object-position: center;
+    }
+    
+
+    .asdasdsa{
+        width: 100%;
+        overflow: hidden;
+        
+    }
+
+    .sdujkh i{
+        display: none;
+    }
+
+    .ljlkjkl{
+        text-align: center;
+        padding-top: 10px;
+    }
+
+    .socialmeida{
+        text-align: center;
+    }
+
+    .leflt-sl{
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .leflt-sls{
+        margin-left: 0px;
+        text-align: center;
+    }
+    
+    .height-200{
+        height: 340px;
+    }
+
+    .navheader{
+        display: none;
+    }
+
+    .mobile-header{
+        display: flex;
+        place-content: space-between;
+
+    }
+
+    .sidebarthing{
+        display: none;
+        position: absolute;
+        top: 6%;
+        right: 4%;
+        z-index: 10;
+        background: rgba(58, 58, 58, 0.6);
+        width: 55%;
+        height: 50%;
+        padding: 40px;
+        border-radius: 10px;
+        backdrop-filter: blur(10px);
+
+        & ul li{
+            margin-top: 40px;
+            font-size: 17px;
+            font-weight: 700;
+            cursor: pointer;
+            color: #fff;
+        }
+    }
+
+    .display-bloc{
+        display: block !important;
+    }
+
+    .smdf{
+        margin-left: 30px;
+    }
+}

@@ -1,0 +1,101 @@
+@media only screen and (min-width: 1920px) {
+  .w-80-s {
+    width: 90%;
+    margin: 0 auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  .position-absolute {
+    position: absolute;
+    z-index: 2;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    color: white !important;
+  }
+  .relative-img {
+    display: block;
+    width: 570px;
+    height: 850px;
+    -o-object-fit: cover;
+       object-fit: cover;
+  }
+  .text-index-about {
+    font-size: 44px;
+  }
+  .font-index-about {
+    font-size: 20px;
+  }
+  .svsdivs {
+    border-radius: 10px;
+  }
+  .svsdivs img {
+    width: 550px;
+  }
+  .elemetns-about-us-innercontent {
+    width: 739px;
+    margin-left: 0px;
+    margin-top: 120px;
+  }
+  .elemetns-about-us-innercontent p {
+    font-weight: 500;
+    font-size: 17px;
+    text-align: justify;
+    line-height: 30px;
+  }
+  .w-75 {
+    width: 70%;
+    margin: 0 auto;
+  }
+  .w-80 {
+    width: 80%;
+    margin: 0 auto;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+  }
+  .bsdasratgdas img {
+    width: 500px;
+    height: 787px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    -o-object-position: center;
+       object-position: center;
+  }
+  .gallery-img img {
+    width: 400px;
+    height: 508px;
+    border-radius: 10px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    -o-object-position: center center;
+       object-position: center center;
+  }
+  .gallery-img-sec-1 img {
+    width: 345px;
+    height: 300px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    -o-object-position: center;
+       object-position: center;
+    transition: transform 400ms, opactiy 400ms;
+  }
+  .w-95 {
+    width: 85%;
+    margin: 0 auto;
+  }
+  .bjhoiuyku img {
+    width: 520px;
+    height: 672.117px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    -o-object-position: center;
+       object-position: center;
+  }
+  .pt-jb {
+    padding-top: 0px;
+  }
+  .margin-top-304 {
+    margin-top: 300px;
+  }
+  .mobile-header {
+    display: none;
+  }
+}/*# sourceMappingURL=big.css.map */
